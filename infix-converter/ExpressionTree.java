@@ -1,5 +1,3 @@
-package data_structures_hw4;
-
 public class ExpressionTree {
 	private Node root;
 	private ArrayStack<ExpressionTree> stack = new ArrayStack<>();
