@@ -1,6 +1,4 @@
-package data_structures_hw4;
-
-import data_structures_hw4.Stack;
+import Stack;
 
 public class ArrayStack<E> implements Stack<E> {
 	  /** Default array capacity. */
