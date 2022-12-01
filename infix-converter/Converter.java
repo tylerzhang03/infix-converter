@@ -1,5 +1,3 @@
-package data_structures_hw4;
-
 import java.util.ArrayList;
 import java.util.List;
 
