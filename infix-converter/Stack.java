@@ -1,5 +1,3 @@
-package data_structures_hw4;
-
 public interface Stack<E> {
 
 	  /**
